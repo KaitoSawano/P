@@ -1,19 +1,34 @@
-Running 1 test case...                                                                                                                                                                                    --- Simulasi Halving Sampai Habis ---
-Halving ke-0 (Blok 1): 5000000000                                                                    Halving ke-1 (Blok 1280000): 2500000000
-Halving ke-2 (Blok 2560000): 1250000000                                                              Halving ke-3 (Blok 3840000): 625000000
-Halving ke-4 (Blok 5120000): 312500000                                                               Halving ke-5 (Blok 6400000): 156250000
-Halving ke-6 (Blok 7680000): 78125000                                                                Halving ke-7 (Blok 8960000): 39062500
-Halving ke-8 (Blok 10240000): 19531250                                                               Halving ke-9 (Blok 11520000): 9765625
-Halving ke-10 (Blok 12800000): 4882812                                                               Halving ke-11 (Blok 14080000): 2441406
-Halving ke-12 (Blok 15360000): 1220703                                                               Halving ke-13 (Blok 16640000): 610351
-Halving ke-14 (Blok 17920000): 305175                                                                Halving ke-15 (Blok 19200000): 152587
-Halving ke-16 (Blok 20480000): 76293                                                                 Halving ke-17 (Blok 21760000): 38146
-Halving ke-18 (Blok 23040000): 19073                                                                 Halving ke-19 (Blok 24320000): 9536                                                                  Halving ke-20 (Blok 25600000): 4768
-Halving ke-21 (Blok 26880000): 2384                                                                  Halving ke-22 (Blok 28160000): 1192
-Halving ke-23 (Blok 29440000): 596                                                                   Halving ke-24 (Blok 30720000): 298
-Halving ke-25 (Blok 32000000): 149                                                                   Halving ke-26 (Blok 33280000): 74
-Halving ke-27 (Blok 34560000): 37                                                                    Halving ke-28 (Blok 35840000): 18
-Halving ke-29 (Blok 37120000): 9                                                                     Halving ke-30 (Blok 38400000): 4
-Halving ke-31 (Blok 39680000): 2                                                                     Halving ke-32 (Blok 40960000): 1
-Halving ke-33 (Blok 42240000): 0                                                                     Reward sudah habis di halving ke-33!                                                                 
-*** No errors detected                                                                               root@localhost:~/termucoin#
+Halving ke-0 (Blok 1): 5000000000
+Halving ke-1 (Blok 1280000): 2500000000
+Halving ke-2 (Blok 2560000): 1250000000
+Halving ke-3 (Blok 3840000): 625000000
+Halving ke-4 (Blok 5120000): 312500000
+Halving ke-5 (Blok 6400000): 156250000
+Halving ke-6 (Blok 7680000): 78125000
+Halving ke-7 (Blok 8960000): 39062500
+Halving ke-8 (Blok 10240000): 19531250
+Halving ke-9 (Blok 11520000): 9765625
+Halving ke-10 (Blok 12800000): 4882812
+Halving ke-11 (Blok 14080000): 2441406
+Halving ke-12 (Blok 15360000): 1220703
+Halving ke-13 (Blok 16640000): 610351
+Halving ke-14 (Blok 17920000): 305175
+Halving ke-15 (Blok 19200000): 152587
+Halving ke-16 (Blok 20480000): 76293
+Halving ke-17 (Blok 21760000): 38146
+Halving ke-18 (Blok 23040000): 19073
+Halving ke-19 (Blok 24320000): 9536
+Halving ke-20 (Blok 25600000): 4768
+Halving ke-21 (Blok 26880000): 2384
+Halving ke-22 (Blok 28160000): 1192
+Halving ke-23 (Blok 29440000): 596
+Halving ke-24 (Blok 30720000): 298
+Halving ke-25 (Blok 32000000): 149
+Halving ke-26 (Blok 33280000): 74
+Halving ke-27 (Blok 34560000): 37
+Halving ke-28 (Blok 35840000): 18
+Halving ke-29 (Blok 37120000): 9
+Halving ke-30 (Blok 38400000): 4
+Halving ke-31 (Blok 39680000): 2
+Halving ke-32 (Blok 40960000): 1
+Halving ke-33 (Blok 42240000): 0
